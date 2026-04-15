@@ -1,6 +1,6 @@
-# 👋 Hola, soy [Tu Nombre]
+# 👋 Hola, soy MrEkkito 
 
-Bienvenido a mi espacio en GitHub. Este repositorio contiene el código de mi página personal, donde comparto lo que hago, lo que he construido y hacia dónde voy.
+Enrealidad me llamo Pedro y este es mi espacio en GitHub, aqui es donde subo mis repositorios mayormente para trabajos universitarios y uno que otro trabajo personal, pasate y date una vuelta por mis repositorios para ver algo que te guste
 
 ---
 
@@ -11,9 +11,9 @@ Soy una persona apasionada por la tecnología y el desarrollo de software. Me gu
 Actualmente me enfoco en:
 
 - Desarrollo web
+- Desarrollo de programas B2B
 - Diseño de interfaces (UI)
-- Automatización de procesos
-- Aprendizaje continuo 🚀
+- Aprendizaje continuo 
 
 ---
 
@@ -34,6 +34,8 @@ No es solo un portafolio, es una forma de mostrar mi evolución como desarrollad
 
 - HTML, CSS y JavaScript
 - Git y GitHub
+- Visual Studio
+- Android studio con groove
 - Herramientas de diseño (cuando es necesario)
 
 ---
