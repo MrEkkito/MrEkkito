@@ -1,50 +1,218 @@
-# 👋 Hola, soy MrEkkito 
+# 👋 Hi, I'm MrEkkito
 
-Enrealidad me llamo Pedro y este es mi espacio en GitHub, aqui es donde subo mis repositorios mayormente para trabajos universitarios y uno que otro trabajo personal, pasate y date una vuelta por mis repositorios para ver algo que te guste
+My real name is **Pedro**, and welcome to my GitHub profile.
 
----
+I'm a **Computer Systems Engineering student** who enjoys building software, experimenting with new technologies, and turning ideas into real projects.
 
-## 🧠 Sobre mí
+Most of the repositories you'll find here come from university projects, personal experiments, and some bigger projects I'm developing on my own.
 
-Soy una persona apasionada por la tecnología y el desarrollo de software. Me gusta crear soluciones simples para problemas reales, aprender constantemente y mejorar mis habilidades con cada proyecto.
-
-Actualmente me enfoco en:
-
-- Desarrollo web
-- Desarrollo de programas B2B
-- Diseño de interfaces (UI)
-- Aprendizaje continuo 
+Feel free to explore my repositories — maybe you'll find something interesting. 🚀
 
 ---
 
-## 💡 ¿Por qué hice esta página?
+## 🧠 About Me
 
-Quería tener un lugar propio en internet donde:
+I'm passionate about **technology, software development, networking, and building digital experiences**.
 
-- Mostrar lo que sé hacer
-- Documentar mi crecimiento
-- Tener algo que realmente me represente
-- Compartir mis proyectos de forma clara
+I enjoy learning how systems work, solving problems, designing interfaces, and improving projects step by step.
 
-No es solo un portafolio, es una forma de mostrar mi evolución como desarrollador.
+I'm currently focused on:
+
+- 🌐 Web Development
+- ⚙️ Backend Development
+- 🖥️ Desktop Applications
+- 🎮 Game Development
+- 🌐 Computer Networks
+- 🎨 UI / UX Design
+- 🗄️ Databases
+- 🧠 Software Architecture
+- 📚 Continuous Learning
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🎓 Computer Systems Engineering
 
-- HTML, CSS y JavaScript
-- Git y GitHub
+I'm currently studying **Computer Systems Engineering at Universidad de El Salvador (UES)**.
+
+A large part of my GitHub contains projects related to my university courses, where I've worked with topics such as:
+
+- Data Structures
+- Computer Networks
+- Databases
+- Numerical Analysis
+- Software Engineering
+- Web Development
+- Desktop Applications
+- Operating Systems
+- Networking Infrastructure
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- C#
+- Lua / Luau
+- SQL
+
+### 🌐 Web Development
+
+- Django
+- JavaScript
+- REST APIs
+- HTML / CSS
+- DaisyUI
+- GitHub Pages
+
+### 🎮 Game Development
+
+- Roblox Studio
+- Luau
+- Game Systems
+- Inventory Systems
+- UI Systems
+- Data Persistence
+- Gameplay Mechanics
+
+### 🌐 Networking
+
+- Cisco Packet Tracer
+- GNS3
+- VLANs
+- VLSM / Subnetting
+- DHCP
+- DNS
+- NAT
+- OSPF
+- Static Routing
+- Network Design
+
+### 🗄️ Databases
+
+- MySQL
+- SQL
+- Database Design
+- Data Modeling
+
+### 🔧 Tools
+
+- Git
+- GitHub
 - Visual Studio
-- Android studio con groove
-- Herramientas de diseño (cuando es necesario)
+- Visual Studio Code
+- Android Studio
+- Docker
+- Linux / Debian
+- Figma / Design Tools
 
 ---
 
-## 📂 Lo que vas a encontrar aquí
+## 🚀 Projects
 
-- Proyectos personales
-- Experimentos
-- Ideas en desarrollo
-- Código que refleja mi forma de trabajar
+I like working on projects where I can combine different areas of software development.
+
+Some of the things I build include:
+
+- 🌐 Web applications
+- 🖥️ Desktop applications
+- 🎮 Roblox games
+- 🌐 Network infrastructures
+- 📦 Inventory systems
+- 🔐 Authentication systems
+- 🗄️ Database-driven applications
+- 🎨 User interfaces
+- ⚙️ Backend services
+- 🧪 Experiments and prototypes
 
 ---
+
+## 🦁 Expedition Zoo
+
+One of my main personal projects is **Expedition Zoo**, a Roblox experience focused on exploration, animal discovery, collection, and progression.
+
+The project includes systems such as:
+
+- Animal capturing
+- Inventory management
+- Different regions and biomes
+- Animal rarities
+- Special animal variants
+- Progression systems
+- Shops
+- Game passes
+- Data persistence
+- Custom UI systems
+
+It's one of the projects where I experiment the most with **game design, UI, progression systems, and Luau development**.
+
+---
+
+## 🌐 Networking Projects
+
+I'm also interested in **computer networks and infrastructure design**.
+
+I've worked on projects involving:
+
+- Enterprise network design
+- VLAN segmentation
+- VLSM addressing
+- Router configuration
+- DHCP
+- DNS
+- NAT
+- Static Routing
+- OSPF
+- Network redundancy
+- Data Center architecture
+- Cisco Packet Tracer
+- GNS3
+
+I enjoy understanding not only how software works, but also the infrastructure that allows systems to communicate.
+
+---
+
+## 💡 Why This GitHub Exists
+
+I wanted a place where I could:
+
+- 📂 Keep my projects organized
+- 📚 Document what I learn
+- 🚀 Share what I'm building
+- 🧪 Experiment with new technologies
+- 📈 Track my progress as a developer
+- 💡 Turn ideas into real projects
+
+This GitHub is not just a portfolio.
+
+It's a record of my evolution as a developer.
+
+---
+
+## 📂 What You'll Find Here
+
+You'll mainly find:
+
+- 🎓 University projects
+- 🚀 Personal projects
+- 🎮 Game development experiments
+- 🌐 Networking labs
+- 💻 Web applications
+- 🧪 Experiments and prototypes
+- 📚 Projects created while learning new technologies
+
+Some repositories are simple exercises, while others are larger projects that continue evolving over time.
+
+---
+
+## 📈 Always Learning
+
+Technology changes constantly, so I'm always trying to learn something new.
+
+Every project here represents a new problem solved, a new technology explored, or a new lesson learned.
+
+> Build. Break. Learn. Improve. Repeat. 🚀
