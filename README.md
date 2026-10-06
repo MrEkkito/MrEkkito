@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I'm MrEkkito
 
 My name is **Pedro**, and I'm a **Computer Systems Engineering student** at Universidad de El Salvador.
@@ -6,6 +5,8 @@ My name is **Pedro**, and I'm a **Computer Systems Engineering student** at Univ
 I'm passionate about **software development, technology, networking, game development, and building digital experiences**. I enjoy learning how systems work, solving problems, experimenting with new ideas, and turning concepts into real applications.
 
 Most of the repositories you'll find here come from **university work, personal projects, experiments, and things I've built while learning and improving as a developer**.
+
+---
 
 ## 🧠 About Me
 
@@ -22,9 +23,11 @@ Some of the areas I'm most interested in are:
 - 🎨 UI / UX Design
 - 🧠 Software Architecture
 
+---
+
 ## 🛠️ Technologies & Tools
 
-I work with different technologies depending on the project, including tools and languages related to:
+I work with different technologies depending on the project, mainly in areas such as:
 
 - 💻 Software Development
 - 🌐 Web Technologies
@@ -37,9 +40,11 @@ I work with different technologies depending on the project, including tools and
 
 I'm constantly exploring new tools and technologies as I continue learning.
 
+---
+
 ## 📂 What You'll Find Here
 
-This GitHub is mainly a place where I can:
+This GitHub is a place where I can:
 
 - 📚 Document what I'm learning
 - 🚀 Build and improve projects
@@ -51,6 +56,8 @@ This GitHub is mainly a place where I can:
 
 Some repositories are simple exercises and experiments, while others are larger projects that continue evolving over time.
 
+---
+
 ## 📈 Always Learning
 
 Technology is constantly changing, and that's one of the things I enjoy most about this field.
@@ -58,4 +65,3 @@ Technology is constantly changing, and that's one of the things I enjoy most abo
 Every project is an opportunity to learn something new, solve a different problem, improve my skills, and become a better developer.
 
 > **Build. Break. Learn. Improve. Repeat. 🚀**
-```
